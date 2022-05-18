@@ -1,0 +1,48 @@
+.features-info-bot {
+
+    bottom: 100px !important;
+    text-align: center !important;
+    vertical-align: middle;
+}
+
+
+.table-price, tr, td{
+   
+
+    color: #a9b5c1 !important;
+
+
+}
+
+    .lpb{  
+        color: #000000!important;
+        font-weight: 800 !important;
+    }
+    .lpbn{   
+     
+        color: #a9b5c1 !important;
+        text-decoration: line-through !important;
+        padding-left: 2em;
+    }
+
+
+    .lpbc{ 
+            color: #ffc107 !important;
+            font-weight: 900 !important;
+            border: 1px solid #ffc107;
+            padding:5px 15px;
+            border-radius:5px;
+    } 
+
+    .kfw{
+        width: 100% !important;
+    }
+    .invalid-feedback{
+        color: red !important;
+    }
+
+
+
+
+    /* Auto complite start */
+/*/
